@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1475523901317.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D185545E",
+    "lastKnownWriteTime" : 20266400193970287,
+    "last_content_update" : 1475523901317,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "i6vw44abjm",
+        "caption" : "SubSet",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=SubSet&cache_key=i6vw44abjm",
+        "displayedObservations" : 284,
+        "environment" : "",
+        "object" : "SubSet",
+        "totalObservations" : 284,
+        "variables" : 11
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

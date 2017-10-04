@@ -1,0 +1,39 @@
+$ Age                     : Age of employee
+$ Attrition               : Factor varilable with 2 labels - Wants to stay in company or no
+$ BusinessTravel          : Factor vairable 3 levels "Non-Travel", "Travel_Frequently", "Travel Rarely"
+$ DailyRate               : Daily rate in USD$ (numeric, continous)
+$ Department              : Employees department of the company
+$ DistanceFromHome        : Distance from home to office in miles
+$ Education               : Education level 1 'Below College'	2 'College'	3 'Bachelor'	4 'Master'	5 'Doctor'
+$ EucationField           : Field of education, (Human Resources, Life Sciences, Marketing, Medical, Other, Technical Degree)
+$ EmployeeCount           : Number of managed employees
+$ EmployeeNumber          : Employee number (Unique ID)
+$ EnvironmentSatisfaction : Satsfaction from the company's environment - 1 'Low'	2 'Medium'	3 'High'	4 'Very High'
+$ Gender                  : gender 1 - Female, 2 - Male
+$ HourlyRate              : Hourly rate paid USD (numeric, continous)
+$ JobInvolvment           : 1 'Low'	2 'Medium'	3 'High'	4 'Very High'
+$ JobLevel                : From 1 to 5- Internal coding of the job level  
+$ JobRole                 : Role, position of the employee (Healthcare Representative, Human Resources, 
+                            Laboratory Technician, Manager, Manufacturing Director, Research Director, 
+                           Research Scientist, Sales Executive, Sales Representative)
+$ JobSatisfaction         : Job satisfaction rating (1 'Low'	2 'Medium'	3 'High'	4 'Very High')
+$ MaritalStatus           : Marital Status - Divorced, Married, Single,
+$ MonthlyIncome           : Monthly income in USD$
+$ MonthlyRate             : Monthly paying for home rate 
+$ NumCompaniesWorked      : Number of companies previously worked                                                                              
+$ HourlyRate              : Hourly rate in USD$
+$ Over18                  : Is persone over 18 years old 
+$ OverTime                : Boolean if stays overtime 
+$ PercentSalaryHike       : Increase in salary (%)
+$ PerformanceRating       : Performance rating (1 'Low'	2 'Good'	3 'Excellent'	4 'Outstanding')
+$RelationshipSatisfaction : Satisfaction with the relationship with the company (1 'Low'	2 'Medium'	3 'High'	4 'Very High')  
+$ MonthlyIncome           : Monthly income in USD$
+$StandardHours            : Standard working hours per 2-week
+$ StockOptionLevel        : stock option level - 0 no options, 3 maximum options
+$ TotalWorkingYears       : total working years (total work experience in years) 
+$ TrainingTimesLastYear   : How many times an employee had a training last year
+$ WorkLifeBalance         : work / life balance grade (1 'Bad'	2 'Good'	3 'Better'	4 'Best')
+$ YearsAtCompany          : total working years at current company 
+$ YearsInCurrentRole      : Years in current position
+$ YearsSinceLastPromotion : Years since last promotion
+$ YearsWithCurrManager    : Years with current manager 

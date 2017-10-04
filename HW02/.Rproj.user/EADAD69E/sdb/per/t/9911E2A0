@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1475516564931.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9911E2A0",
+    "lastKnownWriteTime" : 20266400193970287,
+    "last_content_update" : 1475516564931,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2qc763figz",
+        "caption" : "ggdata",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ggdata&cache_key=2qc763figz",
+        "displayedObservations" : "74",
+        "environment" : "",
+        "object" : "ggdata",
+        "totalObservations" : "74",
+        "variables" : "24"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

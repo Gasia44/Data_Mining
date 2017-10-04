@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1475511884208.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5950FCBC",
+    "lastKnownWriteTime" : 3833180308419998817,
+    "last_content_update" : 1475511884208,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gu5k4b7p7s",
+        "caption" : "pisaTrain",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pisaTrain&cache_key=gu5k4b7p7s",
+        "displayedObservations" : "2414",
+        "environment" : "",
+        "object" : "pisaTrain",
+        "totalObservations" : "2414",
+        "variables" : "24"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
